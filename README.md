@@ -49,7 +49,8 @@ Offers interactive visualizations to reveal trends in lending, borrower demograp
 
 ### Dashboard 3: Detailed Insights
 Provides a comprehensive platform for in-depth analysis of loan portfolio metrics, supporting data-driven decision-making.
-![Screenshot 2024-11-04 175159](https://github.com/user-attachments/assets/a5dc9ace-3ff9-4c93-b4dd-1adbb5337ff2)
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/4e7b5e2c-f90f-4318-b3fc-54864dadb34b" />
+
 
 
 #### Features:
