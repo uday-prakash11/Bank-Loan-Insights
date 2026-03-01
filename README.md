@@ -1,3 +1,4 @@
+
 # Advanced Bank Loan Data Analysis: Empowering Decision-Making through Dynamic Insights
 
 ## Project Overview
@@ -15,7 +16,7 @@ To create a suite of interconnected dashboards that offer dynamic, comprehensive
 
 ### Dashboard 1: Executive Summary
 Provides a high-level overview of key performance indicators (KPIs) for efficient assessment of lending activities.
-![Screenshot 2024-11-04 175105](https://github.com/user-attachments/assets/313b1497-db7e-4e1d-b3ef-f71d4d7c9fd3)
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/a3c6eac6-0361-47d9-af7f-76f9399d6aca" />
 
 #### Key Metrics:
 - **Total Loan Applications:** Over **38,000** applications with month-over-month (MoM) trend analysis.
