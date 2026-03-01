@@ -32,8 +32,9 @@ Provides a high-level overview of key performance indicators (KPIs) for efficien
 ---
 
 ### Dashboard 2: Trends & Overview
-Offers interactive visualizations to reveal trends in lending, borrower demographics, and loan purposes for identifying patterns and opportunities. 🔍
-![Screenshot 2024-11-04 175132](https://github.com/user-attachments/assets/d7222cb1-ec86-4c4b-92f5-4a599acb3337)
+Offers interactive visualizations to reveal trends in lending, borrower demographics, and loan purposes for identifying patterns and opportunities. 
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/69def133-7807-409e-b24f-8025d2ea190d" />
+
 
 
 #### Key Visualizations:
@@ -53,7 +54,7 @@ Provides a comprehensive platform for in-depth analysis of loan portfolio metric
 
 #### Features:
 - **Real-Time Data Integration:** For up-to-date analysis.
-- **User Feedback Mechanisms:** Enables continuous dashboard enhancements. 🛠️
+- **User Feedback Mechanisms:** Enables continuous dashboard enhancements. 
 
 ## Implementation Strategy
 1. **Design Layouts:** Intuitive interface for seamless navigation and interaction.
